@@ -85,10 +85,7 @@ public class AllTogether extends PApplet{
 					
 					clickedTile = t;
 					
-					if()
-					{
-						
-					}
+
 					
 				}
 			}
